@@ -53,9 +53,9 @@ Below is a comparative matrix of commercial managed workflow orchestration platf
 
 ## 🔓 Open-Source Orchestration Engines
 
-Top open-source data workflow and DAG orchestrators sorted by **GitHub Star Count (descending)**.
+Top open-source data workflow and DAG orchestrators sorted by **GitHub Stars_Count (descending)**.
 
-| Project & Repository | Description | Licensing | Star Count 🔽 |
+| Project & Repository | Description | Licensing | Stars_Count 🔽 |
 | :--- | :--- | :--- | :--- |
 | **[Apache Airflow](https://github.com/apache/airflow)** 💨 | The industry de facto standard Python DAG scheduler and workflow platform. | Apache-2.0 | [<img src="https://img.shields.io/github/stars/apache/airflow?style=social&color=white" alt="Apache Airflow Stars"/>](https://github.com/apache/airflow/stargazers) |
 | **[Argo Workflows](https://github.com/argoproj/argo-workflows)** ☸️ | Container-native Kubernetes workflow engine for DAGs and multi-step tasks. | Apache-2.0 | [<img src="https://img.shields.io/github/stars/argoproj/argo-workflows?style=social&color=white" alt="Argo Workflows Stars"/>](https://github.com/argoproj/argo-workflows/stargazers) |
